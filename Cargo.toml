@@ -1,11 +1,11 @@
 [package]
-name = "RustDesk Remote Desktop For China WanFeng Team"
+name = "rustdesk"
 version = "1.4.1"
 authors = ["rustdesk <info@rustdesk.com>"]
 edition = "2021"
 build= "build.rs"
 description = "RustDesk Remote Desktop For China WanFeng Team"
-default-run = "RustDesk Remote Desktop For China WanFeng Team"
+default-run = "rustdesk"
 rust-version = "1.75"
 
 [lib]
