@@ -1,10 +1,10 @@
 [package]
-name = "rustdesk"
+name = "Rustdesk For China WanFeng Team"
 version = "1.4.1"
 authors = ["rustdesk <info@rustdesk.com>"]
 edition = "2021"
 build= "build.rs"
-description = "RustDesk Remote Desktop"
+description = "RustDesk Remote Desktop For China WanFeng Team"
 default-run = "rustdesk"
 rust-version = "1.75"
 
@@ -192,9 +192,9 @@ members = ["libs/scrap", "libs/hbb_common", "libs/enigo", "libs/clipboard", "lib
 exclude = ["vdi/host", "examples/custom_plugin"]
 
 [package.metadata.winres]
-LegalCopyright = "Copyright © 2025 Purslane Ltd. All rights reserved."
+LegalCopyright = "Copyright © 2025 Purslane Ltd And ETS2 China WanFeng Team. All rights reserved."
 ProductName = "RustDesk"
-FileDescription = "RustDesk Remote Desktop"
+FileDescription = "RustDesk Remote Desktop For China WanFeng Team"
 OriginalFilename = "rustdesk.exe"
 
 [target.'cfg(target_os="windows")'.build-dependencies]
