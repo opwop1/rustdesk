@@ -1,5 +1,5 @@
 [package]
-name = "Rustdesk For China WanFeng Team"
+name = "Rustdesk"
 version = "1.4.1"
 authors = ["rustdesk <info@rustdesk.com>"]
 edition = "2021"
